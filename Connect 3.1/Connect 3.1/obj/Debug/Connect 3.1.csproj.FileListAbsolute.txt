@@ -1,0 +1,26 @@
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.exe.config
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.exe
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.pdb
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\MainWindow.baml
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\MainWindow.g.cs
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\App.g.cs
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1_MarkupCompile.cache
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.g.resources
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect_3._1.Properties.Resources.resources
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.csproj.GenerateResource.Cache
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.exe
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.pdb
+C:\Users\Djordje\Desktop\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.csprojResolveAssemblyReference.cache
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.exe.config
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.exe
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.pdb
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.exe
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\bin\Debug\Connect 3.1.pdb
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.csprojResolveAssemblyReference.cache
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\MainWindow.baml
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\MainWindow.g.cs
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\App.g.cs
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1_MarkupCompile.cache
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.g.resources
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect_3._1.Properties.Resources.resources
+C:\Users\Djordje\Desktop\za GITHUB\AI CONNECT 3.1\Connect 3.1\Connect 3.1\obj\Debug\Connect 3.1.csproj.GenerateResource.Cache
