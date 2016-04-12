@@ -1,2 +1,1 @@
-# Connect-L-Project
-Instead of connecting 4 coins in a row, try to make an L shape of same color coins.
+Connect four game that looks for "L" shapes on the board to determine the winner, instead of four tokens in a row. Includes an option to play an AI player.
